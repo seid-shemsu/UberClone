@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "156318662227",
+    "firebase_url": "https://andelus-academy.firebaseio.com",
+    "project_id": "andelus-academy",
+    "storage_bucket": "andelus-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156318662227:android:ff4f3ae59dafa15077d0a6",
+        "android_client_info": {
+          "package_name": "com.izhar.uberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156318662227-9c7ir1n2tv38ag1o758ftm3bdjhi6mn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZsNSxcqysBw3mIc3inBS37SReubXwtl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156318662227-9c7ir1n2tv38ag1o758ftm3bdjhi6mn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
